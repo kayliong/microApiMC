@@ -1,6 +1,6 @@
 # <h1> MicroAPIMC - Simple API Framework
 
-This is a flexible micro framework act like a MVC. Suitable for testing small piece of code, db and API prototyping.
+This is a flexible micro framework with Model and Classes. Suitable for testing small piece of code, db and API prototyping.
 * Currently only support apache web server.
 * Very bare minimum code.
 * There is no authentication nor authorisation in this version.
